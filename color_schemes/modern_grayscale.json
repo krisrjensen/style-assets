@@ -1,0 +1,26 @@
+{
+  "name": "Modern Grayscale",
+  "category": "modern",
+  "description": "Clean grayscale palette for contemporary designs",
+  "colors": {
+    "primary": "#2C2C2C",
+    "secondary": "#4A4A4A",
+    "accent": "#007ACC",
+    "background": "#FFFFFF",
+    "text": "#1A1A1A",
+    "text_secondary": "#666666",
+    "border": "#E0E0E0",
+    "highlight": "#F5F5F5",
+    "error": "#E53E3E",
+    "success": "#38A169"
+  },
+  "usage": "Modern documents, presentations",
+  "compatibility": [
+    "modern",
+    "minimal"
+  ],
+  "accessibility": {
+    "wcag_aa_compliant": true,
+    "contrast_ratio": 7.2
+  }
+}

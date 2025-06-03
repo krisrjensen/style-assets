@@ -1,0 +1,26 @@
+{
+  "name": "Nature Green",
+  "category": "academic",
+  "description": "Natural green palette for scientific publications",
+  "colors": {
+    "primary": "#2D5016",
+    "secondary": "#4A7C28",
+    "accent": "#6FA83B",
+    "background": "#FFFFFF",
+    "text": "#000000",
+    "text_secondary": "#2D2D2D",
+    "border": "#B8D4A5",
+    "highlight": "#E8F5E8",
+    "error": "#B71C1C",
+    "success": "#2E7D32"
+  },
+  "usage": "Nature journal style, environmental studies",
+  "compatibility": [
+    "nature",
+    "environmental"
+  ],
+  "accessibility": {
+    "wcag_aa_compliant": true,
+    "contrast_ratio": 4.8
+  }
+}

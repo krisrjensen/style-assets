@@ -1,0 +1,26 @@
+{
+  "name": "Corporate Blue",
+  "category": "corporate",
+  "description": "Professional corporate color scheme",
+  "colors": {
+    "primary": "#1E3A8A",
+    "secondary": "#3B82F6",
+    "accent": "#60A5FA",
+    "background": "#FFFFFF",
+    "text": "#111827",
+    "text_secondary": "#4B5563",
+    "border": "#D1D5DB",
+    "highlight": "#EBF8FF",
+    "error": "#DC2626",
+    "success": "#059669"
+  },
+  "usage": "Business reports, corporate documents",
+  "compatibility": [
+    "corporate",
+    "business"
+  ],
+  "accessibility": {
+    "wcag_aa_compliant": true,
+    "contrast_ratio": 5.1
+  }
+}

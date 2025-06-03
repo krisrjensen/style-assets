@@ -1,0 +1,26 @@
+{
+  "name": "Creative Palette",
+  "category": "creative",
+  "description": "Vibrant colors for creative projects",
+  "colors": {
+    "primary": "#7C3AED",
+    "secondary": "#A855F7",
+    "accent": "#C084FC",
+    "background": "#FEFEFE",
+    "text": "#1F2937",
+    "text_secondary": "#374151",
+    "border": "#E5E7EB",
+    "highlight": "#FDF4FF",
+    "error": "#F87171",
+    "success": "#34D399"
+  },
+  "usage": "Creative presentations, artistic documents",
+  "compatibility": [
+    "creative",
+    "artistic"
+  ],
+  "accessibility": {
+    "wcag_aa_compliant": false,
+    "contrast_ratio": 3.8
+  }
+}

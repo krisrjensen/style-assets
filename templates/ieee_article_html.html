@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}}</title>
+    <link rel="stylesheet" href="ieee.css">
+</head>
+<body>
+    <div class="ieee-paper">
+        <header class="paper-header">
+            <h1 class="paper-title">{{title}}</h1>
+            <div class="authors">{{authors}}</div>
+        </header>
+        
+        <div class="two-column">
+            <section class="abstract">
+                <h2>Abstract</h2>
+                <p>{{abstract}}</p>
+                <div class="keywords">
+                    <strong>Index Terms—</strong>{{keywords}}
+                </div>
+            </section>
+            
+            <main class="content">
+                {{content}}
+            </main>
+        </div>
+        
+        <footer class="references">
+            <h2>References</h2>
+            <div class="reference-list">
+                {{references}}
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
